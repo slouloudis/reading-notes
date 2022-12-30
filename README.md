@@ -2,7 +2,7 @@
 Reading notes for Code 102!
 
 
-## Growth Mindset 
+## Growth Mindset :thinking:
 ![A butterfly growing](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80)
 
 A growth mindset is *essential* to personal development. It's the ability to take a positive, can-do attitude, especially when facing unfamiliar tasks or trying to learn a new skill. To give an example from my personal life, many people see being artistic as an inborn talent - I know this isn't true, it's just that most artists started young and kept going. It's persistence and **focused** practice that lead to great work, not an innate ability. 
