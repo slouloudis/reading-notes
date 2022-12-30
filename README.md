@@ -34,4 +34,8 @@ You can even show colours: `#DC143C` although this only works in issues, pull re
 
 #### Github Pages
 
+GitHub pages is an easy way to host and share websites for projects, organisations and resumes. The source files for the sight will come straight from your repository. Keep in mind, even if your repo is private, the pages website will be public. 
+
 ## Things I want to know more about
+
+Useing Jekyl themes for Pages and creating a small website for all my learning notes. I'm also trying to get used to flex and gridbox this week! I also want to get a basic understanding of what a framework like React.js accutally does (right now I think it's like a library of code?) and also what as static site generator is and how to use one. 
