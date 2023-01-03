@@ -42,6 +42,9 @@ Useing Jekyl themes for Pages and creating a small website for all my learning n
 
 ##### Static Sites vs Dynamic Sites. 
 
-Satic Sites are the same for whatever viewer looks at them - like this one! You could think of it as a 'read-only' site. While it can be interactive and have animation, the users *actions* cannot change the site. They require minial back end processing, as most things tend to be rendered client-side. 
+Satic Sites are the same for whatever viewer looks at them - like this one! You could think of it as a 'read-only' site. While it can be interactive and have animation, the users *actions* cannot change the site. They require minimal back end processing, as most things tend to be rendered client-side. 
 
 A dynmaic site changes 
+
+
+Git tags - look up. Git revisions - tags allow for names. 
