@@ -139,7 +139,7 @@ Learn more design
 Get better at CSS
 Simple Websites
 
-**Frontend Framework** -
+**Frontend Framework** - Do this first! 
 React, Vue, Svekte
 Sate Managers
 Server-Side Rendering
@@ -149,3 +149,70 @@ Node.js, Python, PHP, C#, Go
 Databases - Postgres, MonoDB
 HTTP and API Development/ 
 
+**Advanced JS**
+Module Bundlers
+Testing
+Design Patterns
+
+#### Front End 
+Some Frontend JS frameworks used for SPA's (Single Page Apps) The user only loads a single page, and then everything else is done through Javascipt, client side, and the UI is built from components. 
+
+- React
+    - Created by Facebook
+    - Popular
+    - Learning curve isn't terrible
+    
+Some things to learn with React - react router, jsx (create html in Javascript), Hooks, Context API Redux 
+
+- Vue
+    - Second most popular
+    - Good community
+    - Low learning curve
+    
+Some things to learn with Vue - Vue CLI, Vue Router, Composition API, Vuex 
+
+- Angular
+    - Made by google
+    - Popular in enterprise
+    - Steep learning curve
+    
+- Svelte
+    - Lightweight Compiler
+    - Low learning curve
+    
+----
+#### TypeScript. 
+
+Superset of Javascript - Basically it's Javascript with some extra stuff. 
+- Static-Type Checking - JavaScript is not a typed language, meaning that when you define a variable or function, you don't have to specify the data type (string, interger, float, boolean etc) Typescript adds the option to add types to JS
+- Class and Module Support
+- Other ES6 features
+- Code less prone to errors/Robust
+
+#### UI kits
+
+**Reusable design elements / components**
+
+For React - Material UI, Onsen UI, Chakra UI, React Bootstrap. 
+For Vue - Veutify, Buefy, Vue Material, Bootstrap Vue. 
+
+## Testing
+
+Unit Testing - Test blocks of code (functions, modules, classes) 
+
+Integration Testing - Modules are combined and tested together
+
+E2E Testing - Emulating a user. 
+
+JS testing tools include, Jest, Cypress and Puppeteer.
+
+## Server-Side Rendering 
+
+We can render react, vue, front end frameworks on the server. 
+
+This comes with some benefits, like improving SEO. Preformance benefits, routing is easier. 
+
+Frameworks - Next.JS (Based on React) 
+
+           - Nuxt.JS (Based on Vue
+       
