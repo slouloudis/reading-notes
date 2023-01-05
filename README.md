@@ -48,3 +48,31 @@ A dynmaic site changes
 
 
 Git tags - look up. Git revisions - tags allow for names. 
+
+## A quick overview of some web concepts and modern development. 
+
+Besides the front-end trinity of HTML, CSS and Javascript, I'm finding myself generally confused by a lot of the terms I see online. React? Tailwind? API's? 
+
+![Confused](https://media.tenor.com/xRWvL0QHJuoAAAAM/hmm.gif)
+
+#### Some history: THIS IS WRONG FIX
+
+> - Web 1 - Basic html and css files. Really ugly. Websites are static. 
+> * Web 2.0 - User interaction
+> + Web 3.0(?) - Ai driven. Unqiue experinces per user. 
+
+#### HTML and CSS are the building blocks of web development.
+
+- HTML5 Basic and Semantic tags 
+- CSS Fundamentals
+- CSS Alignment (Flexbox and Grid)
+- Media Queires/Responsive Design - Make your website work on different devices. 
+- Simple Animations / Transitions 
+
+#### Extra tools. 
+Sass is a pre-processor that adds some functionality to CSS. Variables, nesting, functions etc. Compile with a Sass compiler down to css. 
+PostCSS a tool for transforming CSS with JavaScript.
+
+#### CSS Frameworks. 
+
+CSS frameworks give you predefined classes/components to style elements. This can speed up the project. Like using a primitive in maya instead of starting with the quad-draw tool. 
