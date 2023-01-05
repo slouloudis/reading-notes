@@ -20,7 +20,7 @@ However reading through the article, I related to the authors tendency to someti
 Learning Markdown now will help me in the future as I create reading notes for other modules. Being able to organise my notes and easily quote code will make the learning process much easier. Github pages also allows me to access them from anywhere, which is just a *little* conveniant. **There are many markdown applications, although most of them generally support the same syntax.**
 
 #### Markdown Basic Syntax
-
+To make something bold use `**` on either side of the **text**
 
 The `#` sign is used for creating headers. If you want to make a `<h3>` tag like in html, you use the corresponding number of `#`s.
 
@@ -76,3 +76,76 @@ PostCSS a tool for transforming CSS with JavaScript.
 #### CSS Frameworks. 
 
 CSS frameworks give you predefined classes/components to style elements. This can speed up the project. Like using a primitive in maya instead of starting with the quad-draw tool. 
+
+High level, like boostrap, means it comes with classes like `button` or `alert`, and these classes will contain many styles. Tailwind, beging low-level has many classes that do one one specific thing - like a class for verticle alignment. 
+
+- **Bootstrap 5** - Popular, high level framework
+- **Tailwind** - Low-level, utlity based framework. 
+- **Materialize** - Based on material design (google?)
+- **Bulma** - Mobile-first, modular. 
+- **Foundation** - Bit older, advanced CSS framework. 
+
+Frameworks are easy ish to learn once you know one. 
+
+---
+
+#### UI Design Principles
+- **Color and Contrast** - Is the text readable?
+- **Whitespace** - Check space between elements
+- **Scale** - Relative element sizing
+- **Visual Hierarchy** - Order of importance - Composition!
+- **Typogaphy** - Font/Typefact, sizing. 
+
+---
+
+#### Java Script
+
+Javascript adds interactivity and dynamic functionality. Javascript is main language of browsers. 
+
+- **Js Basiscs** - Data types, data structures, functions, loops
+- **DOM** - Document Object Model - An interfact in the browser that treats HTML tags as nodes. Make something show or dispear, make a request for data, ect. 
+- **Async JS** - We don't want the website to just stall while it waits for a request from the server. Asynchonus rendering - same as in 3D. Understand promises, .thn, .wait, callbacks, .catch, 
+- **Fetch API & HTTP** - Make Async server requests. Make requests to API's and understand HTTP. JSON - Javascript Object Notation. Common format for APIs. XML same thing. 
+- **Array Methods** - map, filter, reduce, for each, etc. 
+
+---
+
+#### Other tools
+- GIT - Version control. 
+- NPM - Package manager to instal packages. Requires Node.JS - Look up. Node Package Manager. Packages - code that does a specific thing - framework, libraries. 
+- Yarn - Same as NPM share the same repo's
+- Markdown. Like this!
+- Browser Dev tools
+- IDE plugins - Emmet, Liver server, Prettier, ESLint, etc.
+
+___
+
+### Deploying Frontend Projects 
+
+How do I deploy my project to the internet? 
+
+Some popular platforms include: netlify, vercel, cPanel, amazonS3. 
+
+For domain names - namecheap, Domain.com, bluehost, GoDaddy. 
+
+To deploy a hosting platform -
+
+GIT, SSH
+
+---
+ 
+**Web Design** - 
+Learn more design
+Get better at CSS
+Simple Websites
+
+**Frontend Framework** -
+React, Vue, Svekte
+Sate Managers
+Server-Side Rendering
+
+**Backend** 
+Node.js, Python, PHP, C#, Go
+Databases - Postgres, MonoDB
+HTTP and API Development/ 
+
