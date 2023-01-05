@@ -154,7 +154,9 @@ Module Bundlers
 Testing
 Design Patterns
 
-#### Front End 
+----
+
+## Front End 
 Some Frontend JS frameworks used for SPA's (Single Page Apps) The user only loads a single page, and then everything else is done through Javascipt, client side, and the UI is built from components. 
 
 - React
@@ -212,7 +214,7 @@ We can render react, vue, front end frameworks on the server.
 
 This comes with some benefits, like improving SEO. Preformance benefits, routing is easier. 
 
-Frameworks - Next.JS (Based on React) 
-
-           - Nuxt.JS (Based on Vue
+**Frameworks** 
+- Next.JS (Based on React) 
+- Nuxt.JS (Based on Vue
        
