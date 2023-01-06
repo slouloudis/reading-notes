@@ -1,6 +1,5 @@
 ---
 title: rn01-markdown
-layout: template
 filename: rn01-markdown.md
 --- 
 
