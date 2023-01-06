@@ -45,6 +45,22 @@ Here, even though the green body property is the last selector, the `h1` selecto
 
 ### Box model review 
 
+A browsers rendering engine represents each element as a rectangualr box. We can use CSS to change the style, size, position ect of theses boxes. All boxes consist of the following:
+
+- Margin (Edge)
+- Border (Edge) 
+- Padding (Edge)
+- Content (Edge)
+
+The content edge is the width and height of the 'real' content. 
+
+####
+
+There are several layout modes, the default being *Normal Flow* Normal Flow consists of Block and Inline elements. 
+Table, Float, Positioned & Multi-colum layout. 
+I'll be focusing on *Grid* and *Flexbox*
+
+**Not all CSS properties work on all layout modes!!! They can be unique to their specific layout mode**
 
 ## Grid & Flexbox.
 
