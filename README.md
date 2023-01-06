@@ -2,6 +2,8 @@
 
 Reading notes for Code 102!
 
+Go to [Markdown Notes](rn01-markdown.md)
+
 ## Growth Mindset :thinking:
 
 ![A butterfly growing](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80)
