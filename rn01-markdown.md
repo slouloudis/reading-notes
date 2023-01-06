@@ -1,3 +1,10 @@
+---
+title: rn01-markdown
+layout: template
+filename: rn01-markdown.md
+--- 
+
+
 ## Read 01 - Learning Markdown 
 
 Learning Markdown now will help me in the future as I create reading notes for other modules. Being able to organise my notes and easily quote code will make the learning process much easier. Github pages also allows me to access them from anywhere, which is just a *little* conveniant. **There are many markdown applications, although most of them generally support the same syntax.**
