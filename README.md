@@ -3,6 +3,7 @@
 Reading notes for Code 102!
 
 Go to [Markdown Notes](rn01-markdown.md)
+
 Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
 ## Growth Mindset :thinking:
