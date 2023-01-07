@@ -188,4 +188,24 @@ This comes with some benefits, like improving SEO. Preformance benefits, routing
 **Frameworks** 
 - Next.JS (Based on React) 
 - Nuxt.JS (Based on Vue
+
+Some vue3 stuff:
+
+### Composition API
+
+Methods - modify the data
+
+computed properties - a new property computed from two different pieces of data
+
+watchers - look for data to change and trigger a method
+
+created.mounted,updated,destroyed - when to functions
+
+data - a list of properties
+
+This can be laid out very annoying - compostions API fixes it
+
+Hooks - remembers what is is between calls - a fancy variable. 
+
+Vite - Does project set up for you. 
        
