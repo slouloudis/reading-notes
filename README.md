@@ -3,10 +3,14 @@
 Reading notes for Code 102 & More!
 
 Go to [Markdown Notes](rn01-markdown.md)
+Go to [Read: 02 - The Coder's Computer](rd02-coders-computer.md)
 
 Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
 Go to [CS-50 Notes](CS-50-markdown.md)
+
+
+
 
 ## Growth Mindset :thinking:
 
