@@ -9,17 +9,30 @@ filename: rn01-markdown.md
 Learning Markdown now will help me in the future as I create reading notes for other modules. Being able to organise my notes and easily quote code will make the learning process much easier. Github pages also allows me to access them from anywhere, which is just a *little* conveniant. **There are many markdown applications, although most of them generally support the same syntax.**
 
 #### Markdown Basic Syntax
+
+To make something *italian* you may need to learn another language. To make something italicised, stick two `*stars*` *around it*
+
 To make something bold use `**` on either side of the **text**
 
-The `#` sign is used for creating headers. If you want to make a `<h3>` tag like in html, you use the corresponding number of `#`s.
+The `#` sign is used for creating headers. If you want to make a `<h3>` tag like in html, you use the corresponding number of `#`s.`###header 3`
 
-To create a code block use a single tab (or four spaces if you just love pressing the space button). 
-
-To show something is a peice of code, you can use back-ticks. Like I did above! ``Use double`back`ticks if you want backticks in your code example. Backtick inception!``
+To show something is a peice of code, you can use back-ticks. Like I did above! ``Use double`back`ticks if you want backticks in your code example. Backtick inception!`` 
 
 `***`, `___` and `---` can be used to make a horizontal line. 
 
+To create a code block:
+
+```
+  use a single tab 
+  (or four spaces if you just love 
+  pressing the space button). On GitHub,
+  though, use three backticks
+  
+```
+
 You can even show colours: `#DC143C` although this only works in issues, pull requests and discussions on GitHub. 
+
+Links are square brackets followed by normal brackets. `[cool-link](www.coolink.com)` to embed an image, use `!` `![cool-image](coolimange.png)`
 
 #### Github Pages
 
