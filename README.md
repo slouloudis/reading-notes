@@ -8,7 +8,10 @@ Go to [Read: 02 - The Coder's Computer](rd02-coders-computer.md)
 
 Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
+Go to [JavaScript Basics](rn4me-js-basic.md)
+
 Go to [CS-50 Notes](CS-50-markdown.md)
+
 
 
 
