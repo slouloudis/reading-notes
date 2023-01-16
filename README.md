@@ -6,6 +6,8 @@ Go to [Markdown Notes](rn01-markdown.md)
 
 Go to [Read: 02 - The Coder's Computer](rd02-coders-computer.md)
 
+Go to [Class 2](class-02.md)
+
 Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
 Go to [JavaScript Basics](rn4me-js-basic.md)
