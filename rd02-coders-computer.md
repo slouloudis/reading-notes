@@ -2,7 +2,16 @@
 title: Read 02 - Coders Computer
 filename: rd02-coders-computer.md
 --- 
-#The Coders Computer - 
+# The Coders Computer - 
+
+## Text Editors and Code Editors
+
+A document editor is what it is - you get what you see. Think word, google docs, pages ect. 
+
+In comparison, text editors like VS Code, Sublime Text and Brackets let you write code that is later rendered elsewhere - such as the browser. 
+
+An IDE - **intergrated development environment** - is a text editor with several other features, like a compiler and debugger. They can be language specific. Can be resource intensive, but has many features.  
+
 
 ## The Terminal 
 
@@ -38,4 +47,12 @@ using . will reference your current directory (like relative paths)
 ## Files
 
 ![oldmeme](https://i.imgflip.com/77o84q.jpg)
+
+To identify files types it will query a MIME type. (Something with the internet?) Using file content sniffers - 
+
+For more info - https://docs.oracle.com/cd/E19754-01/817-3851/mimetypes-10/index.html#:~:text=Applications%20can%20detect%20the%20MIME,file%20with%20a%20MIME%20type
+
+![mime](https://media.discordapp.net/attachments/859840149483683920/1064612615864733856/AAAAABJRU5ErkJggg.png?width=1248&height=702)
+
+
 
