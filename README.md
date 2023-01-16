@@ -1,6 +1,6 @@
 # reading-notes
 
-Reading notes for Code 102 & More!
+Hi, my name is Sam, I'm an artist and (now) a developer! Below are my reading notes for Code 102 & More!
 
 Go to [Markdown Notes](rn01-markdown.md)
 
