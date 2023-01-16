@@ -33,7 +33,7 @@ Also called the command line, it's a text based way to interact with files on yo
 
 I've also done `add` `commit` `push` `pull` `clone` using Git. 
 
-###Two types of paths, absolute and relative.
+### Two types of paths, absolute and relative.
 
 Absolute paths will use your root directory to find a file. A relative path will find a file within the directory you're currently in. 
 
