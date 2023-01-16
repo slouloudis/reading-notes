@@ -40,7 +40,9 @@ Absolute paths will use your root directory to find a file. A relative path will
 Absolute paths will begin with / while relative paths won't. 
 
 tilde key (~) is a shortcut for your home directory. 
+
 using . will reference your current directory (like relative paths)
+
 .. will reference the parent directory. 
 
 
