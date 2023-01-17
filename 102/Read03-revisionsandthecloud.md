@@ -3,6 +3,8 @@ title: Read: 03 - Revisions and the Cloud
 filename: Read03-revisionsandthecloud.md
 ---
 
+Reworded and understood from [this](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
 # Version Control 
 
 Version control is a filing system that makes you avoid doing the classic project_final_final02 that I remember fondly from my many .psd files. While project_final_final02 isn't a very good version control system (**VCS**) it *is* one, just very prone to error. Let's look at a better one. 
@@ -20,4 +22,99 @@ What if we need multiple people to be able to make changes? We could upload all 
 What if our CVC server goes down? Or someone sets fire to our server? Or a kaiju attacks? None of our workers wil be able to work! Instead of relying on a single point of contact (our Centralized Server) lets distribute our files among all our workers, so we have mirrors of all our files. 
 
 # What is Git?
+
+Git is a DVC system, that revolves around Snapshots
+
+### Snapshots 
+
+Each time you save a version of your project from your working directory, called a 'commit' - Git creates a 'snapshot' of the file and creates a reference to it. 
+
+### Local Operations 
+
+Git seems to make file saves to your local system because it's faster then fetching new data from a remote each time you change something. 
+
+### Tracking changes
+
+Git sees all changes. It observes. 👀 This makes it hard to lose data. 
+
+### States 
+
+Files in Git exist in three main states: Committed, modified and staged
+
+* Commited - Data is stored locally (git commit)
+
+> Modified - Your file has been changed, but it has not been commited to the local database. (ie in VS code)
+
+* Staged - You've flagged a files modified version to be commited  (git add)
+
+![Git Diagram](https://phoenixnap.com/kb/wp-content/uploads/2021/09/git-workflow.png)
+
+## Getting Git Working
+
+### Import and Clone, Track and Push
+
+To import from a remote repo, use 
+
+`git clone https://github.com/test`
+
+We now have a copy of all of our files from our remote repo (doesn't have to be GitHub) and have intialized git inside it. It will automatically retrive the lastest version of the files.
+
+To target the location of the clone, use:
+
+`git clone https://github.com/test myfolder`
+
+`add` will add files from your working directory to your index
+
+`commit` will commit files from your index to your head
+
+    Head is your main/important branch. It's where your brain is!
+
+**Tracked** files are tracked and can be modified, staged, ect
+
+**Untracked** Were not included in the latest snapshot. 
+
+After editing a file, Git will flag is as having been modified. 
+We then stage the file. 
+
+To see the state, we'll use `git status`
+
+`git remote -v` lets you view all the remote urls your repo is tied to. 
+
+`git fetch [remote-name]` will let you fetch data you don't have from a remote repo. It doesn't merge. 
+
+`git push [remote-name][branch-name]` will push files to a remote repo once you've commited them. eg `git push origin main`
+
+
+### O S*!T I wanna undo
+
+`git commit --amend` will alter a commit message, or allow you to add files you've forgotten. 
+
+To unstage a file do:
+
+`git reset HEAD index.html`
+
+Will uncommit your index.html and return it to the modified stage. 
+
+`git reset --hard` Git will overwrite all changes, destroying all uncommited changes. Bit scary!
+
+To undo a commited snapshot:
+
+`git commit -m "example"`
+
+`git revert HEAD`
+
+Git will make a new commit so you dont lose the old commit? - Look up
+
+To return your file to its state when you last commited it, use
+
+`git checkout -- example.html`
+
+Not on the above - you are overwriting any other changes you've made - you are importing the last version you commited and overwriting other changes.
+
+
+
+
+
+
+
 
