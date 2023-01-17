@@ -1,6 +1,6 @@
 ---
 title: Read 02 - Coders Computer
-filename: rd02-coders-computer.md
+filename: Read02-coders-computer.md
 --- 
 # The Coders Computer - 
 

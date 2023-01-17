@@ -2,11 +2,15 @@
 
 Hi, my name is Sam, I'm an artist and (now) a developer! Below are my reading notes for Code 102 & More!
 
-Go to [Markdown Notes](rn01-markdown.md)
+Go to [Read: 01 - Markdown Notes](102\Read01-markdown.md)
 
-Go to [Read: 02 - The Coder's Computer](rd02-coders-computer.md)
+Go to [Read: 02 - The Coder's Computer](102\Read02-coders-computer.md)
 
-Go to [Class 2](class-02.md)
+Go to [Read 03 - Revisions and the Cloud](102\Read03-revisionsandthecloud.md)
+
+
+
+Some of my notes: 
 
 Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
