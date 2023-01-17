@@ -10,6 +10,8 @@ Go to [Read: 02 - The Coder's Computer](./102/Read02-coders-computer.md)
 
 Go to [Read 03 - Revisions and the Cloud](./102/Read03-revisionsandthecloud.md)
 
+Go to [Read 04 - Structure web pages with HTML](./102/Read04-strucutre-web-pages-with-html.md)
+
 Go to [Read 05](./102/Read05.md)
 
 Go to [Read 06](./102/Read06.md)
