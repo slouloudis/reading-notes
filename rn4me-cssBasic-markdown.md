@@ -7,10 +7,10 @@ filename: rn4me-cssBasic-markdown.md
 
 Place to store information about CSS. 
 
-## The C in CSS - Managing Specificty 
+## The C in CSS - Managing Specificity 
 
 What is the cascade.  
-The cascade is an algorithm for solving conflicts when multiple styles are applied to the same html element. Assumming you do the following:
+The cascade is an algorithm for solving conflicts when multiple styles are applied to the same html element. Assuming you do the following:
 
 ```
 body{
@@ -41,11 +41,11 @@ Here, even though the green body property is the last selector, the `h1` selecto
 
 **Some new tech - CSS Cascade Layers**
 
-# Layout, positioning, aligment - how do we move thing about?
+# Layout, positioning, alignment - how do we move thing about?
 
 ### Box model review 
 
-A browsers rendering engine represents each element as a rectangualr box. We can use CSS to change the style, size, position ect of theses boxes. All boxes consist of the following:
+A browsers rendering engine represents each element as a rectangular box. We can use CSS to change the style, size, position etc of theses boxes. All boxes consist of the following:
 
 - Margin (Edge)
 - Border (Edge) 
@@ -57,7 +57,7 @@ The content edge is the width and height of the 'real' content.
 ####
 
 There are several layout modes, the default being *Normal Flow* Normal Flow consists of Block and Inline elements. 
-Table, Float, Positioned & Multi-colum layout. 
+Table, Float, Positioned & Multi-column layout. 
 I'll be focusing on *Grid* and *Flexbox*
 
 **Not all CSS properties work on all layout modes!!! They can be unique to their specific layout mode**
@@ -70,7 +70,7 @@ I'll be focusing on *Grid* and *Flexbox*
 
 ## Psuedo Classes & Selectors
 
-Psuedo selectors are special selectors used commonly in interactivity in the website. Used a lot in animation and transitions. There are a few key psuedo selectors:
+Pseudo selectors are special selectors used commonly in interactivity in the website. Used a lot in animation and transitions. There are a few key pseudo selectors:
 
 ```
 An example: h2:hover {
@@ -79,14 +79,14 @@ An example: h2:hover {
 ```
 `hover` will make the h2 red when the mouse hovers over it. 
 
-Some useful Psuedo selectors: 
+Some useful Pseudo selectors: 
 
 ```
 [tag]:first-child/last-child;
 [tag]:nth-child(n); - (2) would select every second child
 [tag]only-child; for every [tag] that only has one child, will change property. 
 ```
-**Keep in mind, if you have a `ul` nested in an `li` you need to select the `ul` tag to use the Psuedo selectors above, - think child of the tag, not child of the block.**
+**Keep in mind, if you have a `ul` nested in an `li` you need to select the `ul` tag to use the Pseudo selectors above, - think child of the tag, not child of the block.**
 
 # Color, Image, and other shiny things
 
