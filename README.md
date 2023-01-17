@@ -2,15 +2,59 @@
 
 Hi, my name is Sam, I'm an artist and (now) a developer! Below are my reading notes for Code 102 & More!
 
+## Code 102 Reading Notes
+
 Go to [Read: 01 - Markdown Notes](./102/Read01-markdown.md)
 
 Go to [Read: 02 - The Coder's Computer](./102/Read02-coders-computer.md)
 
 Go to [Read 03 - Revisions and the Cloud](./102/Read03-revisionsandthecloud.md)
 
+Go to [Read 05](./102/Read05.md)
+
+Go to [Read 06](./102/Read06.md)
+
+Go to [Read 07](./102/Read07.md)
+
+Go to [Read 08](./102/Read08.md)
+
+## Code 201 Reading Notes
+
+Hey! It's not the future yet >:( These files are super empty!
+
+Go to [Read 01](./201/Read05.md)
+
+Go to [Read 02](./201/Read05.md)
+
+Go to [Read 03](./201/Read05.md)
+
+Go to [Read 04](./201/Read05.md)
+
+Go to [Read 05](./201/Read05.md)
+
+Go to [Read 06](./201/Read05.md)
+
+Go to [Read 07](./201/Read05.md)
+
+Go to [Read 08](./201/Read05.md)
+
+Go to [Read 09](./201/Read05.md)
+
+Go to [Read 10](./201/Read05.md)
+
+Go to [Read 11](./201/Read05.md)
+
+Go to [Read 12](./201/Read05.md)
+
+Go to [Read 13](./201/Read05.md)
+
+Go to [Read 14](./201/Read05.md)
+
+Go to [Read 15](./201/Read05.md)
 
 
-Some of my notes: 
+
+## Some of *my* notes: 
 
 Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
@@ -51,7 +95,7 @@ Besides the front-end trinity of HTML, CSS and Javascript, I'm finding myself ge
 - HTML5 Basic and Semantic tags 
 - CSS Fundamentals
 - CSS Alignment (Flexbox and Grid)
-- Media Queires/Responsive Design - Make your website work on different devices. 
+- Media Queries/Responsive Design - Make your website work on different devices. 
 - Simple Animations / Transitions 
 
 #### Extra tools. 
@@ -60,12 +104,12 @@ PostCSS a tool for transforming CSS with JavaScript.
 
 #### CSS Frameworks. 
 
-CSS frameworks give you predefined classes/components to style elements. This can speed up the project. Like using a primitive in maya instead of starting with the quad-draw tool. 
+CSS frameworks give you predefined classes/components to style elements. This can speed up the project. Like using a primitive in Maya instead of starting with the quad-draw tool. 
 
-High level, like boostrap, means it comes with classes like `button` or `alert`, and these classes will contain many styles. Tailwind, beging low-level has many classes that do one one specific thing - like a class for verticle alignment. 
+High level, like bootstrap, means it comes with classes like `button` or `alert`, and these classes will contain many styles. Tailwind, being low-level has many classes that do one one specific thing - like a class for vertical alignment. 
 
 - **Bootstrap 5** - Popular, high level framework
-- **Tailwind** - Low-level, utlity based framework. 
+- **Tailwind** - Low-level, utility based framework. 
 - **Materialize** - Based on material design (google?)
 - **Bulma** - Mobile-first, modular. 
 - **Foundation** - Bit older, advanced CSS framework. 
@@ -88,8 +132,8 @@ Frameworks are easy ish to learn once you know one.
 Javascript adds interactivity and dynamic functionality. Javascript is main language of browsers. 
 
 - **Js Basiscs** - Data types, data structures, functions, loops
-- **DOM** - Document Object Model - An interfact in the browser that treats HTML tags as nodes. Make something show or dispear, make a request for data, ect. 
-- **Async JS** - We don't want the website to just stall while it waits for a request from the server. Asynchonus rendering - same as in 3D. Understand promises, .thn, .wait, callbacks, .catch, 
+- **DOM** - Document Object Model - An interface in the browser that treats HTML tags as nodes. Make something show or disappear, make a request for data, ect. 
+- **Async JS** - We don't want the website to just stall while it waits for a request from the server. Asynchronous rendering - same as in 3D. Understand promises, .thn, .wait, call-backs, .catch, 
 - **Fetch API & HTTP** - Make Async server requests. Make requests to API's and understand HTTP. JSON - Javascript Object Notation. Common format for APIs. XML same thing. 
 - **Array Methods** - map, filter, reduce, for each, etc. 
 
@@ -97,7 +141,7 @@ Javascript adds interactivity and dynamic functionality. Javascript is main lang
 
 #### Other tools
 - GIT - Version control. 
-- NPM - Package manager to instal packages. Requires Node.JS - Look up. Node Package Manager. Packages - code that does a specific thing - framework, libraries. 
+- NPM - Package manager to install packages. Requires Node.JS - Look up. Node Package Manager. Packages - code that does a specific thing - framework, libraries. 
 - Yarn - Same as NPM share the same repo's
 - Markdown. Like this!
 - Browser Dev tools
@@ -171,7 +215,7 @@ Some things to learn with Vue - Vue CLI, Vue Router, Composition API, Vuex
 #### TypeScript. 
 
 Superset of Javascript - Basically it's Javascript with some extra stuff. 
-- Static-Type Checking - JavaScript is not a typed language, meaning that when you define a variable or function, you don't have to specify the data type (string, interger, float, boolean etc) Typescript adds the option to add types to JS
+- Static-Type Checking - JavaScript is not a typed language, meaning that when you define a variable or function, you don't have to specify the data type (string, integer, float, boolean etc) Typescript adds the option to add types to JS
 - Class and Module Support
 - Other ES6 features
 - Code less prone to errors/Robust
@@ -197,7 +241,7 @@ JS testing tools include, Jest, Cypress and Puppeteer.
 
 We can render react, vue, front end frameworks on the server. 
 
-This comes with some benefits, like improving SEO. Preformance benefits, routing is easier. 
+This comes with some benefits, like improving SEO. Performance benefits, routing is easier. 
 
 **Frameworks** 
 - Next.JS (Based on React) 
@@ -217,7 +261,7 @@ created.mounted,updated,destroyed - when to functions
 
 data - a list of properties
 
-This can be laid out very annoying - compostions API fixes it
+This can be laid out very annoying - compositions API fixes it
 
 Hooks - remembers what is is between calls - a fancy variable. 
 
