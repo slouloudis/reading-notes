@@ -3,9 +3,21 @@ title: Read: 03 - Revisions and the Cloud
 filename: Read03-revisionsandthecloud.md
 ---
 
+# Lab - 03 Notes
+
+Doing this Lab got me more familiar with using the terminal and Git. I learned how to move around with my terminal using `cd ..` `touch` `mkdr` and others. I now find it easy to move in between folders and create new files. 
+
+I'm also happy with Git, like clone, pull, push, add, commit etc. 
+
+Using code like `touch Read0{1..10}.md` is also really helpful to quickly make many files, as we had to do for the lab. I was surprised how easy it was to learn and get used to working this way. 
+
+
+Below are my reading notes and some commands for GIT in further detail. 
+
 Reworded and understood from [this](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-# Version Control 
+
+## Version Control 
 
 Version control is a filing system that makes you avoid doing the classic project_final_final02 that I remember fondly from my many .psd files. While project_final_final02 isn't a very good version control system (**VCS**) it *is* one, just very prone to error. Let's look at a better one. 
 
