@@ -6,11 +6,11 @@ filename: Read02-coders-computer.md
 
 ## Text Editors and Code Editors
 
-A document editor is what it is - you get what you see. Think word, google docs, pages ect. 
+A document editor is what it is - you get what you see. Think word, google docs, pages etc. 
 
 In comparison, text editors like VS Code, Sublime Text and Brackets let you write code that is later rendered elsewhere - such as the browser. 
 
-An IDE - **intergrated development environment** - is a text editor with several other features, like a compiler and debugger. They can be language specific. Can be resource intensive, but has many features.  
+An IDE - **integrated development environment** - is a text editor with several other features, like a compiler and debugger. They can be language specific. Can be resource intensive, but has many features.  
 
 
 ## The Terminal 

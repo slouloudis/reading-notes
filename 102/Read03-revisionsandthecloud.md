@@ -11,15 +11,15 @@ Version control is a filing system that makes you avoid doing the classic projec
 
 ## Local Version Control 
 
-My example above would be a local version control system. It's maybe a folder on my harddrive, or a database, where I store all my changes. When doing 3d work it was pretty common to use projectname_001, projectname_002 ect all in a pretty strict projects file. This isn't really made to be shared with others, or stored off my local drive. 
+My example above would be a local version control system. It's maybe a folder on my hard drive, or a database, where I store all my changes. When doing 3d work it was pretty common to use projectname_001, projectname_002 etc all in a pretty strict projects file. This isn't really made to be shared with others, or stored off my local drive. 
 
 ## Centralized Version Control. 
 
-What if we need multiple people to be able to make changes? We could upload all of our files to a server, that stores all changes/file versions from multiple users. This is much better for collaboration (an admin could restric acces to files). There are still some issues...
+What if we need multiple people to be able to make changes? We could upload all of our files to a server, that stores all changes/file versions from multiple users. This is much better for collaboration (an admin could restrict access to files). There are still some issues...
 
 ## Distributed Version Control 
 
-What if our CVC server goes down? Or someone sets fire to our server? Or a kaiju attacks? None of our workers wil be able to work! Instead of relying on a single point of contact (our Centralized Server) lets distribute our files among all our workers, so we have mirrors of all our files. 
+What if our CVC server goes down? Or someone sets fire to our server? Or a kaiju attacks? None of our workers will be able to work! Instead of relying on a single point of contact (our Centralized Server) lets distribute our files among all our workers, so we have mirrors of all our files. 
 
 # What is Git?
 
@@ -41,11 +41,11 @@ Git sees all changes. It observes. 👀 This makes it hard to lose data.
 
 Files in Git exist in three main states: Committed, modified and staged
 
-* Commited - Data is stored locally (git commit)
+* Committed - Data is stored locally (git commit)
 
-> Modified - Your file has been changed, but it has not been commited to the local database. (ie in VS code)
+> Modified - Your file has been changed, but it has not been committed to the local database. (ie in VS code)
 
-* Staged - You've flagged a files modified version to be commited  (git add)
+* Staged - You've flagged a files modified version to be committed  (git add)
 
 ![Git Diagram](https://phoenixnap.com/kb/wp-content/uploads/2021/09/git-workflow.png)
 
@@ -57,7 +57,7 @@ To import from a remote repo, use
 
 `git clone https://github.com/test`
 
-We now have a copy of all of our files from our remote repo (doesn't have to be GitHub) and have intialized git inside it. It will automatically retrive the lastest version of the files.
+We now have a copy of all of our files from our remote repo (doesn't have to be GitHub) and have initialized git inside it. It will automatically retrieve the latest version of the files.
 
 To target the location of the clone, use:
 
@@ -69,7 +69,7 @@ To target the location of the clone, use:
 
     Head is your main/important branch. It's where your brain is!
 
-**Tracked** files are tracked and can be modified, staged, ect
+**Tracked** files are tracked and can be modified, staged, etc
 
 **Untracked** Were not included in the latest snapshot. 
 
@@ -78,11 +78,11 @@ We then stage the file.
 
 To see the state, we'll use `git status`
 
-`git remote -v` lets you view all the remote urls your repo is tied to. 
+`git remote -v` lets you view all the remote URLs your repo is tied to. 
 
 `git fetch [remote-name]` will let you fetch data you don't have from a remote repo. It doesn't merge. 
 
-`git push [remote-name][branch-name]` will push files to a remote repo once you've commited them. eg `git push origin main`
+`git push [remote-name][branch-name]` will push files to a remote repo once you've committed them. eg `git push origin main`
 
 
 ### O S*!T I wanna undo
@@ -97,19 +97,19 @@ Will uncommit your index.html and return it to the modified stage.
 
 `git reset --hard` Git will overwrite all changes, destroying all uncommited changes. Bit scary!
 
-To undo a commited snapshot:
+To undo a committed snapshot:
 
 `git commit -m "example"`
 
 `git revert HEAD`
 
-Git will make a new commit so you dont lose the old commit? - Look up
+Git will make a new commit so you don't lose the old commit? - Look up
 
-To return your file to its state when you last commited it, use
+To return your file to its state when you last committed it, use
 
 `git checkout -- example.html`
 
-Not on the above - you are overwriting any other changes you've made - you are importing the last version you commited and overwriting other changes.
+Not on the above - you are overwriting any other changes you've made - you are importing the last version you committed and overwriting other changes.
 
 
 
