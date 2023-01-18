@@ -14,9 +14,9 @@ Go to [Read 04 - Structure web pages with HTML](./102/Read04-strucutre-web-pages
 
 Go to [Read 05 - Design web pages with CSS](./102/Read05-design-web-pages-with-css.md)
 
-Go to [Read 06](./102/Read06.md)
+Go to [Read 06 - Dynamic web pages with JavaScript](./102/Read06-dynamic-web-pages-with-javascript.md)
 
-Go to [Read 07](./102/Read07.md)
+Go to [Read 07 - Programming with JavaScript](./102/Read07.md)
 
 Go to [Read 08](./102/Read08.md)
 
