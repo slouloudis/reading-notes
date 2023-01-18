@@ -58,7 +58,6 @@ Go to [Read 15](./201/Read05.md)
 
 ## Some of *my* notes: 
 
-Go to [CSS Notes](rn4me-cssBasic-markdown.md)
 
 Go to [JavaScript Basics](rn4me-js-basic.md)
 
