@@ -127,7 +127,10 @@ There are a few different methods available:
 
 we can terminate the statement with `;`
 
-![how do loops work lol](../img/loop.png)
+![how do loops work lol](../img/Screenshot_1.jpg)
+
+![array loop](../img/bettersloops.jpg)
+
 
 `for while` - I'll come back and write notes on these - same general idea but little more specific.
 
