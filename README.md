@@ -24,35 +24,35 @@ Go to [Read 08 - Operators and Loops](./102/Read08.md)
 
 Hey! It's not the future yet >:( These files are super empty!
 
-Go to [Read 01 - Introduction to Web Development - Module 01](./201/Read05.md)
+Go to [Read 01 - Introduction to Web Development - Module 01](./201/Read01.md)
 
-Go to [Read 02](./201/Read05.md)
+Go to [Read 02](./201/Read02.md)
 
-Go to [Read 03](./201/Read05.md)
+Go to [Read 03](./201/Read03.md)
 
-Go to [Read 04](./201/Read05.md)
+Go to [Read 04](./201/Read04.md)
 
 Go to [Read 05](./201/Read05.md)
 
-Go to [Read 06](./201/Read05.md)
+Go to [Read 06](./201/Read06.md)
 
-Go to [Read 07](./201/Read05.md)
+Go to [Read 07](./201/Read07.md)
 
-Go to [Read 08](./201/Read05.md)
+Go to [Read 08](./201/Read08.md)
 
-Go to [Read 09](./201/Read05.md)
+Go to [Read 09](./201/Read09.md)
 
-Go to [Read 10](./201/Read05.md)
+Go to [Read 10](./201/Read10.md)
 
-Go to [Read 11](./201/Read05.md)
+Go to [Read 11](./201/Read11.md)
 
-Go to [Read 12](./201/Read05.md)
+Go to [Read 12](./201/Read12.md)
 
-Go to [Read 13](./201/Read05.md)
+Go to [Read 13](./201/Read13.md)
 
-Go to [Read 14](./201/Read05.md)
+Go to [Read 14](./201/Read14.md)
 
-Go to [Read 15](./201/Read05.md)
+Go to [Read 15](./201/Read15.md)
 
 ## Some of *my* notes
 
