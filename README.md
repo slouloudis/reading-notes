@@ -24,7 +24,7 @@ Go to [Read 08 - Operators and Loops](./102/Read08.md)
 
 Hey! It's not the future yet >:( These files are super empty!
 
-Go to [Read 01](./201/Read05.md)
+Go to [Read 01 - Introduction to Web Development - Module 01](./201/Read05.md)
 
 Go to [Read 02](./201/Read05.md)
 
@@ -54,20 +54,13 @@ Go to [Read 14](./201/Read05.md)
 
 Go to [Read 15](./201/Read05.md)
 
-
-
-## Some of *my* notes: 
-
+## Some of *my* notes
 
 Go to [JavaScript Basics](rn4me-js-basic.md)
 
 Go to [CS-50 Notes](CS-50-markdown.md)
 
-
-
-
-
-## Growth Mindset 🤔 
+## Growth Mindset 🤔
 
 ![A butterfly growing](https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80)
 
@@ -81,9 +74,9 @@ However reading through the article, I related to the authors tendency to someti
 >
 > - Learning anything is a physical process! When you begin learning something, the strength of your neural pathways is low, but repetition tells your body "this is important" and things like myelin production will increase. Myelin is responsible for 'insulating' your axons, and the presence of it allows your brain to transmit impulses much faster then 'un-myelinated' axons.
 
-## A quick overview of some web concepts and modern development.
+## A quick overview of some web concepts and modern development
 
-Besides the front-end trinity of HTML, CSS and Javascript, I'm finding myself generally confused by a lot of the terms I see online. React? Tailwind? API's? 
+Besides the front-end trinity of HTML, CSS and Javascript, I'm finding myself generally confused by a lot of the terms I see online. React? Tailwind? API's?
 
 ![Confused](https://media.tenor.com/xRWvL0QHJuoAAAAM/hmm.gif)
 
@@ -170,21 +163,21 @@ To deploy a hosting platform -
 GIT, SSH
 
 ---
- 
-**Web Design** - 
+
+**Web Design** -
 Learn more design
 Get better at CSS
 Simple Websites
 
-**Frontend Framework** - Do this first! 
+**Frontend Framework** - Do this first!
 React, Vue, Svekte
 Sate Managers
 Server-Side Rendering
 
-**Backend** 
+**Backend**
 Node.js, Python, PHP, C#, Go
 Databases - Postgres, MonoDB
-HTTP and API Development/ 
+HTTP and API Development/
 
 **Advanced JS**
 Module Bundlers
@@ -193,36 +186,39 @@ Design Patterns
 
 ---
 
-## Front End 
+## Front End
+
 Some Frontend JS frameworks used for SPA's (Single Page Apps) The user only loads a single page, and then everything else is done through Javascipt, client side, and the UI is built from components.
 
 - React
-    - Created by Facebook
-    - Popular
-    - Learning curve isn't terrible
-    
+  - Created by Facebook
+  - Popular
+  - Learning curve isn't terrible
+
 Some things to learn with React - react router, jsx (create html in Javascript), Hooks, Context API Redux
 
 - Vue
-    - Second most popular
-    - Good community
-    - Low learning curve
-    
+  - Second most popular
+  - Good community
+  - Low learning curve
+
 Some things to learn with Vue - Vue CLI, Vue Router, Composition API, Vuex
 
 - Angular
-    - Made by google
-    - Popular in enterprise
-    - Steep learning curve
-    
-- Svelte
-    - Lightweight Compiler
-    - Low learning curve
-    
-----
-#### TypeScript. 
+  - Made by google
+  - Popular in enterprise
+  - Steep learning curve
 
-Superset of Javascript - Basically it's Javascript with some extra stuff. 
+- Svelte
+  - Lightweight Compiler
+  - Low learning curve
+
+----
+
+#### TypeScript
+
+Superset of Javascript - Basically it's Javascript with some extra stuff.
+
 - Static-Type Checking - JavaScript is not a typed language, meaning that when you define a variable or function, you don't have to specify the data type (string, integer, float, boolean etc) Typescript adds the option to add types to JS
 - Class and Module Support
 - Other ES6 features
@@ -232,27 +228,28 @@ Superset of Javascript - Basically it's Javascript with some extra stuff.
 
 **Reusable design elements / components**
 
-For React - Material UI, Onsen UI, Chakra UI, React Bootstrap. 
-For Vue - Veutify, Buefy, Vue Material, Bootstrap Vue. 
+For React - Material UI, Onsen UI, Chakra UI, React Bootstrap.
+For Vue - Veutify, Buefy, Vue Material, Bootstrap Vue.
 
 ## Testing
 
-Unit Testing - Test blocks of code (functions, modules, classes) 
+Unit Testing - Test blocks of code (functions, modules, classes)
 
 Integration Testing - Modules are combined and tested together
 
-E2E Testing - Emulating a user. 
+E2E Testing - Emulating a user.
 
 JS testing tools include, Jest, Cypress and Puppeteer.
 
-## Server-Side Rendering 
+## Server-Side Rendering
 
-We can render react, vue, front end frameworks on the server. 
+We can render react, vue, front end frameworks on the server.
 
-This comes with some benefits, like improving SEO. Performance benefits, routing is easier. 
+This comes with some benefits, like improving SEO. Performance benefits, routing is easier.
 
-**Frameworks** 
-- Next.JS (Based on React) 
+**Frameworks**
+
+- Next.JS (Based on React)
 - Nuxt.JS (Based on Vue
 
 Some vue3 stuff:
@@ -271,7 +268,6 @@ data - a list of properties
 
 This can be laid out very annoying - compositions API fixes it
 
-Hooks - remembers what is is between calls - a fancy variable. 
+Hooks - remembers what is is between calls - a fancy variable.
 
-Vite - Does project set up for you. 
-       
+Vite - Does project set up for you.
