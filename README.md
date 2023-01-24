@@ -28,7 +28,7 @@ Go to [Read 01 - Introduction to Web Development - Module 01](./201/Read01.md)
 
 Go to [Read 02](./201/Read02.md)
 
-Go to [Read 03](./201/Read03.md)
+Go to [Read 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](./201/Read03.md)
 
 Go to [Read 04](./201/Read04.md)
 
