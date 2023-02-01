@@ -38,7 +38,7 @@ Go to [Read 06](./201/Read06.md)
 
 Go to [Read 07](./201/Read07.md)
 
-Go to [Read 08](./201/Read08.md)
+Go to [Read 08 - Flexbox](./201/Read08.md)
 
 Go to [Read 09](./201/Read09.md)
 
