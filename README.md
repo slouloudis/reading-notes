@@ -40,7 +40,7 @@ Go to [Read 07](./201/Read07.md)
 
 Go to [Read 08 - Flexbox](./201/Read08.md)
 
-Go to [Read 09](./201/Read09.md)
+Go to [Read 09 - Javascript : Data Structures Overview](./201/Read09.md)
 
 Go to [Read 10](./201/Read10.md)
 
